@@ -9,7 +9,7 @@ _Create and run a GitHub Actions workflow._
 ## Step 5: Trigger the workflow
 
 
-_You're now able to write and run an Actions workflow! :rocket: :sparkles:_
+_You're now able to write and run an Actions workflow! :rocket: 
 
 
 
